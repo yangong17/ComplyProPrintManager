@@ -1,7 +1,7 @@
 # ComplyPro Label Printing Manager
 
 ## Overview
-The ComplyPro Label Printing Manager is a Python-based tool designed to extend the capabilities of the ComplyPro Label Designer program. It enables users to queue up and print multiple label files in a single operation, streamlining the printing process and eliminating the need to manually print each label file individually.
+The ComplyPro Label Printing Manager is a Python-based tool designed to extend the capabilities of the ComplyPro Label Designer program. It enables users to queue up and print multiple label files in a single operation, streamlining the printing process and eliminating the need to manually print label files individually.
 
 ## Features
 - **Batch Printing**: Queue multiple label files for printing in a single operation.
