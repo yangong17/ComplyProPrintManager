@@ -76,7 +76,7 @@ def print_labels():
         
         # Perform key strokes to print label
         pyautogui.hotkey('alt', 'f')
-        for _ in range(7):
+        for i in range(7):
             pyautogui.press('down')
         pyautogui.press('enter')
         pyautogui.typewrite(str(quantity))
