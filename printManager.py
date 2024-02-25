@@ -51,7 +51,7 @@ def print_labels():
     complypro_window.activate()
     
     # Initialize ComplyPro: Close all tabs (Max of 11 tabs)
-    for _ in range(11):
+    for i in range(11):
         pyautogui.hotkey('ctrl', 'w')
     
     files_printed = 0  # Counter for the number of files printed
