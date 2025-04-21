@@ -8,8 +8,7 @@ The ComplyPro Label Printing Manager is a Python-based tool designed to extend t
 - Reduces operator burden and the risk of label mix-ups during high-volume print runs  
 - Frees up labor for higher-value activities during unattended batch printing  
 
-### Return on Investment (ROI)  
-**Example scenario:**  
+### Example scenario
 - 200 label files to print  
 - Manual printing:  
   - 10 seconds to print × 200 = 2000 seconds  
