@@ -3,8 +3,6 @@
 ### Overview  
 The ComplyPro Label Printing Manager is a Python-based tool designed to extend the capabilities of the Certags ComplyPro Label Designer program. It enables users to queue up and print multiple label files in a single operation, streamlining the printing process and eliminating the need to manually print label files individually.
 
-In typical manufacturing workflows, operators may need to print labels for dozens or even hundreds of unique parts—such as hoses, cables, or assemblies - where each file must be opened and printed individually. For a project with 200 labels, this results in approximately 50 minutes of manual processing (based on recorded benchmarks). This tool reduces that task to a quick setup, allowing printing to run unattended—freeing up operator time and reducing errors.
-
 ### Key Use Case in Manufacturing  
 - Ideal for labeling operations involving many different part numbers  
 - Reduces operator burden and the risk of label mix-ups during high-volume print runs  
